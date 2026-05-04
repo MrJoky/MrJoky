@@ -84,8 +84,8 @@ Turns out, that was a pretty good place to get stuck.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJoky&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJoky&layout=compact&theme=transparent&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/MrJoky?style=flat-square&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/MrJoky?style=flat-square&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=MrJoky&style=flat-square)
