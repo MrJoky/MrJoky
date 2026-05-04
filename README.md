@@ -86,6 +86,6 @@ Turns out, that was a pretty good place to get stuck.
 
 ## 📊 GitHub Stats
 
-![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJoky&show_icons=true&theme=transparent&hide_border=true)
+![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJoky&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJoky&layout=compact&theme=transparent&hide_border=true)
