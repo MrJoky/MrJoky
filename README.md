@@ -89,3 +89,4 @@ Turns out, that was a pretty good place to get stuck.
 ![GitHub followers](https://img.shields.io/github/followers/MrJoky?style=flat-square&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/MrJoky?style=flat-square&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=MrJoky&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MrJoky/MrJoky?style=flat-square&logo=github)
