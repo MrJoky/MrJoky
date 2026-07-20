@@ -44,11 +44,11 @@ My work is especially focused on industrial B2B web interfaces, online shop syst
 
 ---
 
-## 🧩 Professional Work
+## 🧩 Previous Professional Work
 
-At **WSoptics**, I work on web interfaces for industrial B2B platforms, especially in the sheet metal and manufacturing sector.
+During my time at **WSoptics**, I worked on web interfaces for industrial B2B platforms, particularly in the sheet metal and manufacturing sector.
 
-This includes improving and maintaining online shops, configurators and company websites — with a strong focus on usability, responsive layouts and practical frontend implementation.
+My responsibilities included developing, improving and maintaining online shops, configurators and company websites, with a strong focus on usability, responsive design and practical frontend implementation.
 
 ### Focus areas
 
