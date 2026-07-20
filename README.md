@@ -71,9 +71,9 @@ My responsibilities included developing, improving and maintaining online shops,
 
 ---
 
-## 🌱 Currently focused on
+🌱 Currently focused on
 
-Improving modern web interfaces, refining UI details and connecting design with clean frontend implementation.
+Building and refining my personal portfolio website while improving modern web interfaces, polishing UI details and connecting thoughtful design with clean frontend implementation.
 
 ---
 
